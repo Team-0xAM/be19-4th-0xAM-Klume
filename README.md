@@ -288,16 +288,30 @@
 
 <br>
 
+---
+
+## 6. Mockito 테스트
+<details>
+<summary>  &nbsp; Member 테스트 </summary>
+<img width="931" height="509" alt="멤버테스트" src="https://github.com/user-attachments/assets/691b87b0-73b9-4df8-9c4f-a3121f3d6d3f" />
+<img width="940" height="489" alt="멤버컨트롤러단위테스트" src="https://github.com/user-attachments/assets/1ef0d1b8-e861-47e9-8e36-d204ddb3a853" />
+<img width="966" height="514" alt="멤버서비스단위테스트" src="https://github.com/user-attachments/assets/5b7162a9-8407-4c89-9385-5ea227cbd859" />
+<img width="952" height="507" alt="이메일로회원조회테스트" src="https://github.com/user-attachments/assets/3abecc32-4078-4b11-a0cd-afd31e09fabf" />
+<img width="951" height="523" alt="로그인테스트" src="https://github.com/user-attachments/assets/6384a14a-fe89-4a92-9bb7-5678df2c2864" />
+<img width="960" height="521" alt="회원가입테스트" src="https://github.com/user-attachments/assets/3d7130f6-6af1-46bd-932b-a65f8000b0fd" />
+
+  
+</details>
 
 ---
 
-## 6. 시스템 아키텍처
+## 7. 시스템 아키텍처
 
 <img width="1737" height="1030" alt="image" src="https://github.com/user-attachments/assets/0a75648f-3440-4d49-8db0-8a7b2ce81451" />
 
 ---
 
-## 7. CI/CD
+## 8. CI/CD
 
 <details>
   <summary> &nbsp; jenkins 파이프라인 </summary>
@@ -311,7 +325,7 @@
 
 ---
 
-## 8. 개인 회고
+## 9. 개인 회고
 
 ### 강지륜
 
