@@ -1,0 +1,9 @@
+[submodule "Klume-Backend"]
+	path = Klume-Backend
+	url = https://github.com/Team-0xAM/Klume-Backend.git
+[submodule "Klume-Frontend"]
+	path = Klume-Frontend
+	url = https://github.com/Team-0xAM/Klume-Frontend.git
+[submodule "Klume-k8s"]
+	path = Klume-k8s
+	url = https://github.com/Team-0xAM/Klume-k8s.git
