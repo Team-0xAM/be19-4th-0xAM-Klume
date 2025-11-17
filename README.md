@@ -129,7 +129,7 @@
 ### 물리 모델링
 <details>
   <summary>ERD</summary>
-  <img width="1452" height="670" alt="스크린샷 2025-11-13 231452" src="https://github.com/user-attachments/assets/3f937cf7-b36e-4d46-b57e-723e95e846ef" />
+  <img width="1452" height="670" alt="스크린샷 2025-11-13 231452" src="https://github.com/user-attachments/assets/656ded8c-5b74-4cac-a0e7-ae52238fc03f" />
 
 </details>
 
